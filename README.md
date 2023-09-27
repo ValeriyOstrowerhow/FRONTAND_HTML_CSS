@@ -1,2 +1,2 @@
-# Lesson_02_CSS
+# FRONTAND_HTML_CSS
 Basic CSS
