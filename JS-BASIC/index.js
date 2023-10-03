@@ -21,3 +21,9 @@ let smth
 console.log(smth);
 
 console.log(Number.MAX_SAFE_INTEGER)
+
+const cars = [1,2,3,4,5,6,7]
+const tmp = 1[0]
+1[0] = 7[6]
+7[6] = tmp
+console.log(cars);
